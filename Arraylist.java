@@ -19,6 +19,10 @@ public class Arraylist {
 	list.add(6);
 	list.add(3);
 	list.add(4);
+
+list.add(8);
+list.add(3);
+list.add(2);
 //	for printing arraylist
 	for(int i:list) {
 		System.out.println(i);

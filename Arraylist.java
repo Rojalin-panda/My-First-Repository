@@ -23,6 +23,9 @@ public class Arraylist {
 list.add(8);
 list.add(3);
 list.add(2);
+		list.add(5);
+		list.add(67);
+		list.add(865);
 //	for printing arraylist
 	for(int i:list) {
 		System.out.println(i);
